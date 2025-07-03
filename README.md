@@ -2,7 +2,7 @@
 
 ## Contributors
 ### Backend
-- [Vitalijus Pamakstys](https://github.com/Pamakstys) - responsable for authorization, user addresses, emails, requests, stripe payment, schedules
+- [Vitalijus Pamakstys](https://github.com/Pamakstys) - responsable for authorization, user addresses and data update, emails, requests, stripe payment, schedules
 - [Teo](https://github.com/Teo-03) - responsable for malfunctions, reviews
 
 
