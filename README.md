@@ -2,7 +2,7 @@
 
 ## Contributors
 ### Backend
-- [Vitalijus Pamakstys](https://github.com/Pamakstys) - responsable for authorization, user addresses and data update, emails, requests, stripe payment, schedules
+- [Vitalijus Pamakstys](https://github.com/Pamakstys) - responsable for authorization, user addresses and data update, emails/reminders, requests, stripe payment, schedules
 - [Teo](https://github.com/Teo-03) - responsable for malfunctions, reviews
 
 
@@ -46,5 +46,5 @@ Built with **Java Spring Boot**, **MySQL**, and **React**.
 
 - **Backend:** Java Spring Boot
 - **Database:** MySQL
-- **Frontend:** React
+- **Frontend:** React (currently not public)
 - **Payments:** Stripe
