@@ -1,4 +1,10 @@
-# public-pvp
+## This project was developed collaboratively by a team of students as part of the "Produkto vystymo projektas" module at Kaunas University of Technology."
+
+## Contributors
+### Backend
+- [Vitalijus Pamakstys (me)](https://github.com/Pamakstys) - responsable for authorization, user addresses, emails, requests, stripe payment, schedules
+- [Teo](https://github.com/Teo-03) - responsable for malfunctions, reviews
+
 
 A web system designed for both **users** and **employees** to manage services such as rubbish schedules, malfunctions, requests, and payments.
 
